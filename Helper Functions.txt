@@ -1,0 +1,5 @@
+Git Rules
+=========
+git add -A #this will add all files in this directory
+git commit -m "words"
+git push
